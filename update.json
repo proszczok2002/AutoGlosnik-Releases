@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "versionCode": 105,
-  "versionName": "1.0",
-  "apkUrl": "https://github.com/proszczok2002/AutoGlosnik-Releases/releases/download/v1.0/AutoGlosnik-v1.0.apk",
-  "sha256": "6e2a67de9127667e98d1e3c48e1b63bf08f8f1291910a9c6b0f7bdf9de9d5d8e",
+  "versionCode": 106,
+  "versionName": "1.01",
+  "apkUrl": "https://github.com/proszczok2002/AutoGlosnik-Releases/releases/download/v1.01/AutoGlosnik-v1.01.apk",
+  "sha256": "022d93eea103eb9a93fee297b056a6e460c2bae6a28e847af367bb1f2cacd134",
   "notes": {
-    "pl": "Pierwsze publiczne wydanie z obsługą Telefonu Google i Samsung, czterema językami, zakładką Wsparcie i bezpiecznym updaterem GitHub.",
-    "en": "First public release with Google and Samsung Phone support, four languages, a Support tab and a secure GitHub updater.",
-    "de": "Erste öffentliche Version mit Unterstützung für Google und Samsung Telefon, vier Sprachen, Unterstützungsbereich und sicherem GitHub-Updater.",
-    "ru": "Первый публичный выпуск с поддержкой приложений «Телефон» Google и Samsung, четырьмя языками, разделом поддержки и безопасным обновлением через GitHub."
+    "pl": "Test aktualizatora z wersji 1.0 do 1.01. Aktualizacja zachowuje ten sam bezpieczny podpis.",
+    "en": "Updater test from version 1.0 to 1.01. The update keeps the same secure signing certificate.",
+    "de": "Updater-Test von Version 1.0 auf 1.01. Das Update verwendet dasselbe sichere Signaturzertifikat.",
+    "ru": "Проверка обновления с версии 1.0 до 1.01. Обновление использует тот же безопасный сертификат подписи."
   }
 }

@@ -10,6 +10,7 @@ Google/AOSP i Telefon Samsung oraz współpracuje z TalkBackiem.
 ## Najnowsze wydanie
 
 - stabilna wersja: [1.0](https://github.com/proszczok2002/AutoGlosnik-Releases/releases/tag/v1.0)
+- aktualizacja testowa: [1.01](https://github.com/proszczok2002/AutoGlosnik-Releases/releases/tag/v1.01)
 - pakiet: `pl.bumbox.autospeaker`
 - wymagany Android 12 lub nowszy
 - języki: polski, angielski, niemiecki i rosyjski
@@ -54,3 +55,5 @@ SHA-256 certyfikatu podpisu wydań od 1.0:
 `60A685333B8B79BD70998D692FD44F73D236B043429505C7555DDF7BECBF3326`
 
 Sumy SHA-256 poszczególnych APK są podawane w opisie każdego wydania.
+
+Pełna lista zmian znajduje się w [CHANGELOG.md](CHANGELOG.md).
