@@ -21,7 +21,7 @@
   ·
   <a href="INSTRUKCJA.md"><strong>Instrukcja</strong></a>
   ·
-  <a href="https://github.com/proszczok2002/AutoGlosnik-Releases/issues/new?template=bug_report.yml"><strong>Zgłoś problem</strong></a>
+  <a href="https://github.com/proszczok2002/AutoGlosnik-Releases/issues/new?template=bug_report.md"><strong>Zgłoś problem</strong></a>
 </p>
 
 ---

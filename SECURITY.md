@@ -14,4 +14,4 @@ Podejrzenie podatności należy zgłosić przez
 zamiast publikować szczegóły umożliwiające nadużycie w zwykłym Issue.
 
 Zwykłe błędy działania można zgłaszać przez przygotowany
-[formularz problemu](https://github.com/proszczok2002/AutoGlosnik-Releases/issues/new?template=bug_report.yml).
+[szablon zgłoszenia](https://github.com/proszczok2002/AutoGlosnik-Releases/issues/new?template=bug_report.md).
