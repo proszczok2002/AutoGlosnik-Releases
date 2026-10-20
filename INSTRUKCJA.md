@@ -4,6 +4,11 @@ AutoGłośnik przełącza dźwięk zwykłej rozmowy telefonicznej między słuch
 głośnikiem na podstawie czujnika zbliżeniowego. Wspiera Androida 12 lub nowszego
 oraz Telefon Google/AOSP i Telefon Samsung. Nie nagrywa rozmów.
 
+Wersja 1.02 była testowana na POCO F8 Ultra, Samsung Galaxy S25, Samsung Galaxy
+S26 Ultra, Samsung Galaxy S23, Samsung Galaxy S21, Google Pixel 10 i Google
+Pixel 11 Pro. Lista testów nie wyklucza innych zgodnych telefonów z Androidem 12
+lub nowszym.
+
 ## Instalacja
 
 1. Pobierz najnowszy `AutoGlosnik-v*.apk` z oficjalnej strony

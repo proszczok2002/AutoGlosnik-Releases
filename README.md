@@ -54,6 +54,22 @@ zastępuje aplikacji Telefon, nie wykonuje połączeń i nie nagrywa rozmów.
 | Dialer | Telefon Google/AOSP lub Telefon Samsung |
 | Języki | polski, angielski, niemiecki, rosyjski |
 
+## Testowane urządzenia
+
+Wersja 1.02 była testowana na następujących telefonach:
+
+- POCO F8 Ultra;
+- Samsung Galaxy S25;
+- Samsung Galaxy S26 Ultra;
+- Samsung Galaxy S23;
+- Samsung Galaxy S21;
+- Google Pixel 10;
+- Google Pixel 11 Pro.
+
+Lista wskazuje urządzenia, na których wykonano testy, ale nie ogranicza
+zgodności wyłącznie do tych modeli. Aplikacja wymaga Androida 12 lub nowszego,
+czujnika zbliżeniowego oraz obsługiwanego Telefonu Google/AOSP albo Samsung.
+
 ## Instalacja w skrócie
 
 1. Pobierz `AutoGlosnik-v1.02.apk` z
