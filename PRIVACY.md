@@ -1,6 +1,6 @@
 # Polityka prywatności — AutoGłośnik
 
-Ostatnia aktualizacja: 2026-10-19
+Ostatnia aktualizacja: 2026-10-20
 
 AutoGłośnik nie tworzy kont, nie wyświetla reklam, nie używa analityki i nie
 zbiera danych osobowych. Nie nagrywa rozmów, nie odczytuje numerów telefonów i

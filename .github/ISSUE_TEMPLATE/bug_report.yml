@@ -1,0 +1,84 @@
+name: Zgłoszenie problemu
+description: Zgłoś błąd działania, instalacji lub aktualizacji AutoGłośnika.
+title: "[Błąd] "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Dziękujemy za zgłoszenie. Nie wpisuj numerów telefonu, danych rozmów,
+        adresów, tokenów ani innych danych osobowych.
+  - type: dropdown
+    id: version
+    attributes:
+      label: Wersja AutoGłośnika
+      options:
+        - "1.02"
+        - "1.01"
+        - "1.0"
+        - "1.3.1 lub starsza"
+        - "Nie wiem"
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Telefon i wersja Androida
+      description: Na przykład Samsung Galaxy S24, Android 16.
+      placeholder: Model telefonu, Android…
+    validations:
+      required: true
+  - type: dropdown
+    id: dialer
+    attributes:
+      label: Aplikacja Telefon
+      options:
+        - Telefon Samsung
+        - Telefon Google
+        - Telefon AOSP / systemowy
+        - Inna
+        - Nie wiem
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Co się stało?
+      description: Opisz konkretnie widoczny komunikat lub nieprawidłowe zachowanie.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Jak odtworzyć problem?
+      description: Podaj kolejne czynności od uruchomienia aplikacji do błędu.
+      placeholder: |
+        1. Otwieram…
+        2. Wybieram…
+        3. Pojawia się…
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Oczekiwane działanie
+      description: Napisz, co powinno wydarzyć się zamiast błędu.
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Dodatkowe informacje
+      description: Zrzut ekranu bez danych osobowych lub dokładna treść komunikatu.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Potwierdzenie
+      options:
+        - label: APK pochodzi z oficjalnej zakładki Releases tego repozytorium.
+          required: true
+        - label: Zgłoszenie nie zawiera danych osobowych ani poufnych.
+          required: true
+        - label: Sprawdziłem pełną instrukcję i istniejące zgłoszenia.
+          required: true

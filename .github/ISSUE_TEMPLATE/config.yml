@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Instrukcja i rozwiązywanie problemów
+    url: https://github.com/proszczok2002/AutoGlosnik-Releases/blob/main/INSTRUKCJA.md
+    about: Najpierw sprawdź konfigurację, updater i typowe problemy.
+  - name: Prywatne zgłoszenie podatności
+    url: https://github.com/proszczok2002/AutoGlosnik-Releases/security/advisories/new
+    about: Nie publikuj szczegółów podatności w zwykłym zgłoszeniu.

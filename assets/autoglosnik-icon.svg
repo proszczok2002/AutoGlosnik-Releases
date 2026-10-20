@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 48 48" role="img" aria-labelledby="title desc">
+  <title id="title">AutoGłośnik</title>
+  <desc id="desc">Biały symbol głośnika na niebieskim okręgu</desc>
+  <circle cx="24" cy="24" r="22" fill="#315CFF"/>
+  <path d="M12 20h5l7-6v20l-7-6h-5z" fill="#FFFFFF"/>
+  <path d="M29 18c3.3 3.3 3.3 8.7 0 12l2.8 2.8c4.9-4.9 4.9-12.7 0-17.6z" fill="#FFFFFF"/>
+</svg>
