@@ -1,5 +1,15 @@
 # Historia zmian
 
+## 1.02 — poprawka instalatora
+
+- `versionCode 107`.
+- Bezpośrednia sesja systemowego `PackageInstaller` zamiast ogólnego
+  `ACTION_VIEW`, który mógł uruchomić Uptodown App Installer.
+- Ponowna kontrola SHA-256, pakietu, wersji i podpisu tuż przed instalacją.
+- Dodana pełna instrukcja instalacji, konfiguracji, działania i aktualizacji.
+- SHA-256 APK:
+  `FE84A901AED68C34A7330B2DF9C5645F8D44547BAD4D66EF0946B4268344D5F4`.
+
 ## 1.01 — aktualizacja testowa
 
 - `versionCode 106`.

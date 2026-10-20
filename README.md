@@ -9,7 +9,7 @@ Google/AOSP i Telefon Samsung oraz współpracuje z TalkBackiem.
 
 ## Najnowsze wydanie
 
-- stabilna wersja: [1.0](https://github.com/proszczok2002/AutoGlosnik-Releases/releases/tag/v1.0)
+- stabilna wersja: [1.02](https://github.com/proszczok2002/AutoGlosnik-Releases/releases/tag/v1.02)
 - aktualizacja testowa: [1.01](https://github.com/proszczok2002/AutoGlosnik-Releases/releases/tag/v1.01)
 - pakiet: `pl.bumbox.autospeaker`
 - wymagany Android 12 lub nowszy
@@ -24,6 +24,9 @@ Google/AOSP i Telefon Samsung oraz współpracuje z TalkBackiem.
 4. W aplikacji przyznaj uprawnienie Telefon i świadomie włącz ograniczoną
    usługę dostępności AutoGłośnika.
 
+Pełny opis konfiguracji, testu, aktualizacji i rozwiązywania problemów zawiera
+[INSTRUKCJA.md](INSTRUKCJA.md).
+
 ## Usługa dostępności i prywatność
 
 Usługa dostępności jest używana wyłącznie podczas rozmowy, aby znaleźć i
@@ -36,7 +39,9 @@ ani analityki. Pełne informacje: [PRIVACY.md](PRIVACY.md).
 Aplikacja pobiera publiczny `update.json` z tego repozytorium. Aktualizacja jest
 pobierana tylko po potwierdzeniu użytkownika. Przed otwarciem instalatora
 sprawdzane są: HTTPS, SHA-256, nazwa pakietu, rosnący numer wersji i podpis APK.
-Android zawsze wyświetla osobne potwierdzenie instalacji.
+Od wersji 1.02 APK jest przekazywany bezpośrednio do systemowego
+`PackageInstaller`, aby instalacji nie przejmował Uptodown lub inny zewnętrzny
+instalator. Android zawsze wyświetla osobne potwierdzenie instalacji.
 
 Wbudowany updater jest przeznaczony dla dystrybucji bezpośredniej przez GitHub,
 nie dla wydania w Google Play.

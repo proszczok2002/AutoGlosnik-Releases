@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "versionCode": 106,
-  "versionName": "1.01",
-  "apkUrl": "https://github.com/proszczok2002/AutoGlosnik-Releases/releases/download/v1.01/AutoGlosnik-v1.01.apk",
-  "sha256": "022d93eea103eb9a93fee297b056a6e460c2bae6a28e847af367bb1f2cacd134",
+  "versionCode": 107,
+  "versionName": "1.02",
+  "apkUrl": "https://github.com/proszczok2002/AutoGlosnik-Releases/releases/download/v1.02/AutoGlosnik-v1.02.apk",
+  "sha256": "fe84a901aed68c34a7330b2df9c5645f8d44547bad4d66ef0946b4268344d5f4",
   "notes": {
-    "pl": "Test aktualizatora z wersji 1.0 do 1.01. Aktualizacja zachowuje ten sam bezpieczny podpis.",
-    "en": "Updater test from version 1.0 to 1.01. The update keeps the same secure signing certificate.",
-    "de": "Updater-Test von Version 1.0 auf 1.01. Das Update verwendet dasselbe sichere Signaturzertifikat.",
-    "ru": "Проверка обновления с версии 1.0 до 1.01. Обновление использует тот же безопасный сертификат подписи."
+    "pl": "Poprawiono instalację aktualizacji: APK trafia bezpośrednio do systemowego instalatora Androida i nie jest przejmowany przez Uptodown. Dodano ponowną weryfikację przed instalacją.",
+    "en": "Update installation was fixed: the APK now goes directly to the Android system installer and is not handled by Uptodown. Verification is repeated before installation.",
+    "de": "Die Update-Installation wurde korrigiert: Die APK geht direkt an das Android-Systeminstallationsprogramm und nicht an Uptodown. Vor der Installation wird erneut geprüft.",
+    "ru": "Исправлена установка обновлений: APK передаётся напрямую системному установщику Android, а не Uptodown. Перед установкой проверка выполняется повторно."
   }
 }
