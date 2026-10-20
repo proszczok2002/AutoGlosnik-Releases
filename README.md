@@ -128,6 +128,7 @@ Więcej: **[zasady bezpieczeństwa](SECURITY.md)**.
 | [CHANGELOG.md](CHANGELOG.md) | historia wydań i sumy APK |
 | [SECURITY.md](SECURITY.md) | weryfikacja podpisu i zgłaszanie podatności |
 | [SUPPORT.md](SUPPORT.md) | wsparcie rozwoju i pomoc techniczna |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | jak przygotować bezpieczne i użyteczne zgłoszenie |
 | [LICENSE.md](LICENSE.md) | warunki udostępnienia binarnych wydań |
 
 ## Wsparcie rozwoju
