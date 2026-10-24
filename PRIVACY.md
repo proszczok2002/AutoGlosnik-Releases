@@ -1,6 +1,6 @@
 # Polityka prywatności — AutoGłośnik
 
-Ostatnia aktualizacja: 2026-10-20
+Ostatnia aktualizacja: 2026-10-24
 
 AutoGłośnik nie tworzy kont, nie wyświetla reklam, nie używa analityki i nie
 zbiera danych osobowych. Nie nagrywa rozmów, nie odczytuje numerów telefonów i
@@ -34,7 +34,8 @@ Nie ma cichej instalacji. Użytkownik potwierdza pobranie oraz instalację w
 systemowym instalatorze Androida. Aplikacja wcześniej sprawdza HTTPS, SHA-256,
 nazwę pakietu, numer wersji i podpis cyfrowy APK.
 
-Pytania można zgłaszać przez Issues w tym repozytorium.
+Pytania można zgłaszać przez Issues głównego publicznego repozytorium:
+<https://github.com/proszczok2002/AutoGlosnik/issues>.
 
 ---
 

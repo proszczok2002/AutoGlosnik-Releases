@@ -4,24 +4,30 @@
 
 <h1 align="center">AutoGłośnik</h1>
 
+> [!IMPORTANT]
+> To repozytorium jest utrzymywane jako kanał zgodności aktualizatora wersji
+> 1.02. Kod źródłowy, najnowsze APK, Issues i Pull Requesty znajdują się w
+> głównym publicznym repozytorium
+> **[proszczok2002/AutoGlosnik](https://github.com/proszczok2002/AutoGlosnik)**.
+
 <p align="center">
   Automatyczne przełączanie rozmowy między słuchawką i głośnikiem<br>
   na podstawie czujnika zbliżeniowego.
 </p>
 
 <p align="center">
-  <a href="https://github.com/proszczok2002/AutoGlosnik-Releases/releases/latest"><img alt="Najnowsze wydanie" src="https://img.shields.io/github/v/release/proszczok2002/AutoGlosnik-Releases?display_name=tag&label=wersja&color=315CFF"></a>
+  <a href="https://github.com/proszczok2002/AutoGlosnik/releases/latest"><img alt="Najnowsze wydanie" src="https://img.shields.io/github/v/release/proszczok2002/AutoGlosnik?display_name=release&label=wersja&color=315CFF"></a>
   <img alt="Android 12 lub nowszy" src="https://img.shields.io/badge/Android-12%2B-3DDC84?logo=android&logoColor=white">
   <img alt="Cztery języki" src="https://img.shields.io/badge/języki-PL%20%7C%20EN%20%7C%20DE%20%7C%20RU-315CFF">
-  <img alt="Kod źródłowy prywatny" src="https://img.shields.io/badge/źródła-prywatne-555555">
+  <a href="https://github.com/proszczok2002/AutoGlosnik"><img alt="Kod źródłowy publiczny" src="https://img.shields.io/badge/źródła-publiczne-2ea44f"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/proszczok2002/AutoGlosnik-Releases/releases/latest"><strong>⬇ Pobierz najnowszy APK</strong></a>
+  <a href="https://github.com/proszczok2002/AutoGlosnik/releases/latest"><strong>⬇ Pobierz najnowszy APK i kod</strong></a>
   ·
   <a href="INSTRUKCJA.md"><strong>Instrukcja</strong></a>
   ·
-  <a href="https://github.com/proszczok2002/AutoGlosnik-Releases/issues/new?template=bug_report.md"><strong>Zgłoś problem</strong></a>
+  <a href="https://github.com/proszczok2002/AutoGlosnik/issues/new/choose"><strong>Zgłoś problem</strong></a>
 </p>
 
 ---
@@ -48,7 +54,7 @@ zastępuje aplikacji Telefon, nie wykonuje połączeń i nie nagrywa rozmów.
 
 | Informacja | Wartość |
 | --- | --- |
-| Wersja | [`1.02`](https://github.com/proszczok2002/AutoGlosnik-Releases/releases/tag/v1.02) (`versionCode 107`) |
+| Wersja | [`1.02`](https://github.com/proszczok2002/AutoGlosnik/releases/tag/v1.02) (`versionCode 107`) |
 | Pakiet | `pl.bumbox.autospeaker` |
 | System | Android 12 lub nowszy |
 | Dialer | Telefon Google/AOSP lub Telefon Samsung |
@@ -73,7 +79,7 @@ czujnika zbliżeniowego oraz obsługiwanego Telefonu Google/AOSP albo Samsung.
 ## Instalacja w skrócie
 
 1. Pobierz `AutoGlosnik-v1.02.apk` z
-   [najnowszego wydania](https://github.com/proszczok2002/AutoGlosnik-Releases/releases/latest).
+   [najnowszego wydania](https://github.com/proszczok2002/AutoGlosnik/releases/latest).
 2. Otwórz plik i potwierdź instalację w systemie Android.
 3. Uruchom AutoGłośnik, przyznaj uprawnienie Telefon i świadomie włącz usługę
    dostępności AutoGłośnika.
@@ -120,7 +126,8 @@ Pełne ujawnienie: **[polityka prywatności](PRIVACY.md)**.
 ## Bezpieczeństwo wydania
 
 Pobieraj APK wyłącznie z zakładki
-[`Releases`](https://github.com/proszczok2002/AutoGlosnik-Releases/releases).
+[`Releases`](https://github.com/proszczok2002/AutoGlosnik/releases) głównego
+repozytorium albo z zachowanego kanału zgodności tego repozytorium.
 SHA-256 certyfikatu wydań od wersji 1.0:
 
 ```text
@@ -145,7 +152,7 @@ Więcej: **[zasady bezpieczeństwa](SECURITY.md)**.
 | [SECURITY.md](SECURITY.md) | weryfikacja podpisu i zgłaszanie podatności |
 | [SUPPORT.md](SUPPORT.md) | wsparcie rozwoju i pomoc techniczna |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | jak przygotować bezpieczne i użyteczne zgłoszenie |
-| [LICENSE.md](LICENSE.md) | warunki udostępnienia binarnych wydań |
+| [LICENSE](LICENSE) | Apache License 2.0 dla projektu |
 
 ## Wsparcie rozwoju
 
@@ -160,6 +167,7 @@ Wsparcie nie jest zakupem i nie odblokowuje żadnych funkcji.
 ---
 
 <p align="center">
-  Repozytorium zawiera wyłącznie oficjalne wydania, manifest aktualizacji i
-  dokumentację. Kod źródłowy pozostaje prywatny.
+  Kanał zgodności aktualizatora: manifest i historyczne zasoby wydań. Kod,
+  najnowsze APK i współpraca są w
+  <a href="https://github.com/proszczok2002/AutoGlosnik">AutoGlosnik</a>.
 </p>
