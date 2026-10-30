@@ -1,5 +1,15 @@
 # Historia zmian
 
+## 1.03 — migracja do głównego repozytorium
+
+- `versionCode 108`.
+- Wersja 1.02 pobiera to wydanie jeszcze z kanału zgodności.
+- Po instalacji 1.03 kolejne aktualizacje i polityka prywatności korzystają z
+  głównego repozytorium `proszczok2002/AutoGlosnik`.
+- Zachowano bezpieczną weryfikację i systemowy `PackageInstaller`.
+- SHA-256 APK:
+  `6F532F3B6BFFA4D88C2C43581075E7063D7A5305CF3FE261A62AFD9D46E7B0E5`.
+
 ## 1.02 — poprawka instalatora
 
 - `versionCode 107`.

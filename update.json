@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "versionCode": 107,
-  "versionName": "1.02",
-  "apkUrl": "https://github.com/proszczok2002/AutoGlosnik-Releases/releases/download/v1.02/AutoGlosnik-v1.02.apk",
-  "sha256": "fe84a901aed68c34a7330b2df9c5645f8d44547bad4d66ef0946b4268344d5f4",
+  "versionCode": 108,
+  "versionName": "1.03",
+  "apkUrl": "https://github.com/proszczok2002/AutoGlosnik-Releases/releases/download/v1.03/AutoGlosnik-v1.03.apk",
+  "sha256": "6f532f3b6bffa4d88c2c43581075e7063d7a5305cf3fe261a62afd9d46e7b0e5",
   "notes": {
-    "pl": "Poprawiono instalację aktualizacji: APK trafia bezpośrednio do systemowego instalatora Androida i nie jest przejmowany przez Uptodown. Dodano ponowną weryfikację przed instalacją.",
-    "en": "Update installation was fixed: the APK now goes directly to the Android system installer and is not handled by Uptodown. Verification is repeated before installation.",
-    "de": "Die Update-Installation wurde korrigiert: Die APK geht direkt an das Android-Systeminstallationsprogramm und nicht an Uptodown. Vor der Installation wird erneut geprüft.",
-    "ru": "Исправлена установка обновлений: APK передаётся напрямую системному установщику Android, а не Uptodown. Перед установкой проверка выполняется повторно."
+    "pl": "Wydanie migracyjne: aktualizacje i politykę prywatności przeniesiono do głównego repozytorium AutoGlosnik. Zachowano bezpieczną weryfikację i systemowy instalator Androida.",
+    "en": "Migration release: updates and the privacy policy were moved to the main AutoGlosnik repository. Secure verification and the Android system installer remain unchanged.",
+    "de": "Migrationsversion: Updates und die Datenschutzrichtlinie wurden in das Haupt-Repository AutoGlosnik verschoben. Sichere Prüfung und das Android-Systeminstallationsprogramm bleiben unverändert.",
+    "ru": "Миграционная версия: обновления и политика конфиденциальности перенесены в основной репозиторий AutoGlosnik. Безопасная проверка и системный установщик Android сохранены."
   }
 }

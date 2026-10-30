@@ -5,8 +5,8 @@
 <h1 align="center">AutoGłośnik</h1>
 
 > [!IMPORTANT]
-> To repozytorium jest utrzymywane jako kanał zgodności aktualizatora wersji
-> 1.02. Kod źródłowy, najnowsze APK, Issues i Pull Requesty znajdują się w
+> To repozytorium jest tymczasowym kanałem migracji aktualizatora z wersji
+> 1.02 do 1.03. Kod źródłowy, najnowsze APK, Issues i Pull Requesty znajdują się w
 > głównym publicznym repozytorium
 > **[proszczok2002/AutoGlosnik](https://github.com/proszczok2002/AutoGlosnik)**.
 
@@ -48,13 +48,13 @@ zastępuje aplikacji Telefon, nie wykonuje połączeń i nie nagrywa rozmów.
 ## Najnowsza wersja
 
 > [!TIP]
-> **AutoGłośnik 1.02** jest aktualnym stabilnym wydaniem. Poprawia instalację
-> aktualizacji: zweryfikowany APK trafia bezpośrednio do systemowego instalatora
-> Androida, bez przekazywania go do Uptodown App Installer.
+> **AutoGłośnik 1.03** jest wydaniem migracyjnym. Po jego instalacji kolejne
+> aktualizacje są pobierane z głównego repozytorium
+> `proszczok2002/AutoGlosnik`.
 
 | Informacja | Wartość |
 | --- | --- |
-| Wersja | [`1.02`](https://github.com/proszczok2002/AutoGlosnik/releases/tag/v1.02) (`versionCode 107`) |
+| Wersja | [`1.03`](https://github.com/proszczok2002/AutoGlosnik/releases/tag/v1.03) (`versionCode 108`) |
 | Pakiet | `pl.bumbox.autospeaker` |
 | System | Android 12 lub nowszy |
 | Dialer | Telefon Google/AOSP lub Telefon Samsung |
@@ -78,7 +78,7 @@ czujnika zbliżeniowego oraz obsługiwanego Telefonu Google/AOSP albo Samsung.
 
 ## Instalacja w skrócie
 
-1. Pobierz `AutoGlosnik-v1.02.apk` z
+1. Pobierz `AutoGlosnik-v1.03.apk` z
    [najnowszego wydania](https://github.com/proszczok2002/AutoGlosnik/releases/latest).
 2. Otwórz plik i potwierdź instalację w systemie Android.
 3. Uruchom AutoGłośnik, przyznaj uprawnienie Telefon i świadomie włącz usługę
@@ -134,10 +134,10 @@ SHA-256 certyfikatu wydań od wersji 1.0:
 60A685333B8B79BD70998D692FD44F73D236B043429505C7555DDF7BECBF3326
 ```
 
-SHA-256 APK 1.02:
+SHA-256 APK 1.03:
 
 ```text
-FE84A901AED68C34A7330B2DF9C5645F8D44547BAD4D66EF0946B4268344D5F4
+6F532F3B6BFFA4D88C2C43581075E7063D7A5305CF3FE261A62AFD9D46E7B0E5
 ```
 
 Więcej: **[zasady bezpieczeństwa](SECURITY.md)**.

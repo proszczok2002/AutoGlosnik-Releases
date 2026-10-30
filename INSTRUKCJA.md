@@ -12,7 +12,7 @@ lub nowszym.
 ## Instalacja
 
 1. Pobierz najnowszy `AutoGlosnik-v*.apk` z oficjalnej strony
-   [Releases](https://github.com/proszczok2002/AutoGlosnik-Releases/releases).
+   [Releases głównego repozytorium](https://github.com/proszczok2002/AutoGlosnik/releases).
 2. Otwórz plik i potwierdź instalację w systemie Android.
 3. Jeżeli masz starą wersję 1.3.1, odinstaluj ją jednorazowo — miała inny,
    testowy podpis. Wydania od 1.0 aktualizują się bez odinstalowania.
@@ -29,9 +29,11 @@ Bluetooth, słuchawki przewodowe/USB i aparaty słuchowe mają pierwszeństwo.
 
 ## Aktualizacje
 
-Na zakładce **Wsparcie** wybierz **Sprawdź aktualizacje**. Po potwierdzeniu APK
-jest pobierany z tego repozytorium i sprawdzany według HTTPS, SHA-256, pakietu,
-wersji i certyfikatu. Od wersji 1.02 plik trafia bezpośrednio do systemowego
+Na zakładce **Wsparcie** wybierz **Sprawdź aktualizacje**. Wersja 1.02 pobiera
+wydanie migracyjne 1.03 jeszcze z tego repozytorium. Po instalacji 1.03 kolejne
+aktualizacje są pobierane z głównego `proszczok2002/AutoGlosnik`. APK jest
+sprawdzany według HTTPS, SHA-256, pakietu, wersji i certyfikatu. Od wersji 1.02
+plik trafia bezpośrednio do systemowego
 `PackageInstaller`, więc Uptodown App Installer nie powinien się uruchamiać.
 Android nadal pokazuje własne potwierdzenie — aplikacja nie instaluje po cichu.
 
